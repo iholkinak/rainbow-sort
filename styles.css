@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    border: 2px solid #b55;
+    list-style-type: none;    
+    padding-left: 0;
+}
+
+.item {height: 150px;}
+
+ /* RAINBOW */
+.green {background-color: green;}
+.blue {background-color: blue;}
+.orange {background-color: orange;}
+.violet {background-color: violet;}
+.yellow {background-color: yellow;}
+.red {background-color: red;}
+.light-blue {background-color: lightblue;}
